@@ -1,0 +1,14 @@
+QUERY_ID:
+  daily:
+    intraday_volatility: 3291771
+    wallet_distribution_overtime: 3291828
+    average_volume_price: 3297461
+    unique_buyers_sellers: 3291857
+  weekly:
+    intraday_volatility: 3282232
+    wallet_distribution_overtime: 3291807
+    average_volume_price: 3291833
+    unique_buyers_sellers: 3291843
+
+PATH:
+  data_trading_folder: '/Users/vuh/Documents/nft-crawling-dune-data/data/trading_data'
