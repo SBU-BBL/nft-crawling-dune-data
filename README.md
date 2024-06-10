@@ -8,7 +8,7 @@ Here are some steps that walk the users through the process of how to use this r
 
 1. Go into the config file, change the following line to the path that you want to store your data:
 
-  data_trading_folder: '/Users/vuh/Documents/nft-crawling-dune-data/data/trading_data'
+    data_trading_folder: '/Users/vuh/Documents/nft-crawling-dune-data/data/trading_data'
 
 2. Go into the run folder, change the input csv file to the csv file of the desired category (here, for example, I used the pfp category and take the first 10 rows, i.e first 10 collections). Note that the input csv file is the output csv file of the repo 'nft-data-engineering-project'
 
